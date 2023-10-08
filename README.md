@@ -15,6 +15,29 @@ https://www.canva.com/design/DAFwqLAhz-o/fa4hUOh8ylAw0m4-KuEBEg/edit?utm_content
 #### PDF File
 [cosmic-dance.pdf](https://github.com/nattycoder/NASA-SPACE-APPS-CHALLENGE/files/12841687/cosmic-dance.pdf)
 
+### GAME OVERVIEW
+![1](https://github.com/nattycoder/NASA-SPACE-APPS-CHALLENGE/assets/88007154/cd53583a-281c-4156-8c5a-38ab5853fbd0)
+
+![2](https://github.com/nattycoder/NASA-SPACE-APPS-CHALLENGE/assets/88007154/59ca8347-3387-40b2-92f0-65cb167786c8)
+
+![3](https://github.com/nattycoder/NASA-SPACE-APPS-CHALLENGE/assets/88007154/ffc2df2a-1d43-4681-8e38-33bbe8c6a92c)
+![4](https://github.com/nattycoder/NASA-SPACE-APPS-CHALLENGE/assets/88007154/ff04f60e-b477-4b9e-851d-714dd5046702)
+![5](https://github.com/nattycoder/NASA-SPACE-APPS-CHALLENGE/assets/88007154/677556b8-50af-4bbb-975a-e00e66bc4bc1)
+![6](https://github.com/nattycoder/NASA-SPACE-APPS-CHALLENGE/assets/88007154/6d5528a2-b8d3-40f4-be0a-deb7eb75ba0b)
+
+![7](https://github.com/nattycoder/NASA-SPACE-APPS-CHALLENGE/assets/88007154/51ec4eb3-59db-496c-a8c7-1f9bb5b49b19)
+![8](https://github.com/nattycoder/NASA-SPACE-APPS-CHALLENGE/assets/88007154/939ceeb2-3b76-440b-ba20-747b41220b94)
+![9](https://github.com/nattycoder/NASA-SPACE-APPS-CHALLENGE/assets/88007154/eeee441a-ca77-4100-b965-195ad8f6dc90)
+![10](https://github.com/nattycoder/NASA-SPACE-APPS-CHALLENGE/assets/88007154/a2ea305b-5195-47c0-923b-1eefb9474a98)
+![11](https://github.com/nattycoder/NASA-SPACE-APPS-CHALLENGE/assets/88007154/2c0b1759-e7d0-46db-8b5e-76c22852b663)
+![12](https://github.com/nattycoder/NASA-SPACE-APPS-CHALLENGE/assets/88007154/b0c49353-bc08-4f91-9452-8439d93ebd5b)
+![13](https://github.com/nattycoder/NASA-SPACE-APPS-CHALLENGE/assets/88007154/af412350-316e-4a03-a732-68b33b34e36a)
+![14](https://github.com/nattycoder/NASA-SPACE-APPS-CHALLENGE/assets/88007154/40980a58-988a-4d1c-99b9-a865573083f3)
+![15](https://github.com/nattycoder/NASA-SPACE-APPS-CHALLENGE/assets/88007154/bd25167f-d9f4-4768-a296-2b61459198a7)
+
+![17](https://github.com/nattycoder/NASA-SPACE-APPS-CHALLENGE/assets/88007154/1b0eb726-800f-434b-a45e-31bafe661ec0)
+![16](https://github.com/nattycoder/NASA-SPACE-APPS-CHALLENGE/assets/88007154/2ac108fc-8158-4b8b-b9f7-6a464a0bf593)
+
 ### GAME ELEMENTS
 #### 1. CHARACTERS
      - Luna the Moon
