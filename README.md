@@ -14,6 +14,8 @@ The Cosmic Dance: eclipse explorer is an educational game designed for young lea
 https://www.canva.com/design/DAFwqLAhz-o/fa4hUOh8ylAw0m4-KuEBEg/edit?utm_content=DAFwqLAhz-o&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 #### PDF File
 [cosmic-dance.pdf](https://github.com/nattycoder/NASA-SPACE-APPS-CHALLENGE/files/12841687/cosmic-dance.pdf)
+### GAME DEMO
+https://drive.google.com/file/d/1mSE6u-buIo2L-GE9boA70Bi-DPVt-zic/view?usp=drive_link
 
 ### GAME OVERVIEW
 ![1](https://github.com/nattycoder/NASA-SPACE-APPS-CHALLENGE/assets/88007154/cd53583a-281c-4156-8c5a-38ab5853fbd0)
