@@ -1,11 +1,11 @@
 # NASA-SPACE-APPS-CHALLENGE
 THE COSMIC DANCE - ECLIPSE EXPLORER - GAME
 ### TEAM MEMBERS
-Alaa Eddine Ayedi (Team Leader)
-Ranim Hassine
-Wissem Karous
-Ayoub Chaari
-Omar Bouaziz
+     Alaa Eddine Ayedi (Team Leader)
+     Ranim Hassine
+     Wissem Karous
+     Ayoub Chaari
+     Omar Bouaziz
 
 ## CHALLENGE
 ### Eclipses: Perspective is Everything
