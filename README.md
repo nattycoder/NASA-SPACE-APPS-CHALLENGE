@@ -50,6 +50,16 @@ The cosmic dance : eclipse explorer is an educational game designed for young le
 
 #### 6. ACHIEVEMENTS AND REWARDS
      - Players can earn badges and rewards for completing levels and challenges, encouraging them to learn more about eclipses and progress in the game.
-  
 
+### LEARNING OUTCOMES
+     - Players will gain an understanding of the mechanics of eclipses, including the role of alignment and eclipse seasons.
+     - Players will learn why eclipses occur and why they are not visible to everyone on Earth at the same time.
+     - Players will be encouraged to explore and learn more about space and astronomy.
+     
+### TARGET AUDIENCE
+     - "Eclipse Explorer" is designed for young learners, including elementary school children and middle school students, to make learning about eclipses engaging and interactive.
+     
+### CONCLUSION
+     - The cosmic dance : eclipse explorer is a fun and educational game that teaches young learners about the fascinating world of eclipses while promoting problem-solving skills and curiosity about space. By combining storytelling, interactive gameplay, and   
+       educational content, this game aims to make learning about eclipses an awe-inspiring cosmic adventure.
 
