@@ -7,7 +7,10 @@ Eclipses are awe-inspiring celestial events that drastically change the appearan
 
 ## SOLUTION
 ### GAME DESCRIPTION 
-The Cosmic Dance: eclipse explorer is an educational game designed for young learners to help them understand the mechanics of eclipses, including eclipse seasons, why eclipses occur, and why only some people on Earth can see an eclipse at a given time. This interactive game combines storytelling and problem-solving to make learning about eclipses a fun and memorable experience.
+<div style="text-align: justify">
+     The Cosmic Dance: eclipse explorer is an educational game designed for young learners to help them understand the mechanics of eclipses, including eclipse seasons, why eclipses occur, and why only some people on         Earth can see an eclipse at a given time. This interactive game combines storytelling and problem-solving to make learning about eclipses a fun and memorable experience.
+</div>
+
 
 ### GAME LINKS
 #### CANVA LINK
